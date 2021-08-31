@@ -2,7 +2,7 @@ import React from 'react'
 import '../style.css'
 
 const Navbar = () => {
-    const navItems = ['Breakfast', 'Lunch', 'Dinner']
+    const navItems = ['Breakfast', 'Lunch', 'Evening', 'Dinner', 'All']
     return (
         <div>
             <nav className="navbar">
